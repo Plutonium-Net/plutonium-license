@@ -1,2 +1,1 @@
-# plutonium-license
-license for any and all plutonium repositories
+see license for the license @craf1ed
